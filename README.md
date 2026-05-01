@@ -1,1 +1,1 @@
-# -https-github.com-kobryn-mykhailo-goit-js-hw-01-https-kobryn-mykhailo.github.io-goit-js-hw-01-
+# -goit-js-hw-02
